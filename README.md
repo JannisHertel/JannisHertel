@@ -1,5 +1,8 @@
 ### About me 👋
 
+🌱 I’m currently learning ... python?
+📫 How to reach me: ... send me a mail! :)
+
 <!--
 **Hawazim/Hawazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
