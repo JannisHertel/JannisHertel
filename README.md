@@ -1,6 +1,7 @@
 ### About me 👋
 
 🌱 I’m currently learning ... python?
+
 📫 How to reach me: ... send me a mail! :)
 
 <!--
